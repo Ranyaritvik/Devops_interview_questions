@@ -51,3 +51,4 @@ Kubernetes
 28. What is liveness and readiness probe? Why we need them?
 29. Have you worked on kubernetes monitoring? Which tools you have used?
 30. Can we deploy a pod on particular node?
+good
